@@ -12,6 +12,11 @@ function About() {
         <span>CLASS 10TH | 2018 Kashmir Harvard Edu Instt habak , Srinagar.
         <br />
              CLASS 12TH | 2020 Govt. Boys Higher Secondary School Nigeen, Srinagar.
+         <br />
+             I am currently persuing B.Tech in CSE from "Central University of Kashmir"
+          <br />
+              "Enrolled in 8th Semester"  
+
         </span>
         <br />
         <br />
