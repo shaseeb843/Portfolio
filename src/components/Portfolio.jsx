@@ -23,8 +23,8 @@ function Portfolio() {
             id: 3,
             logo: react,
             name: "Portfolio",
-            link: "https://example-link-portfolio.com", // Replace with the actual link for the Portfolio
-            sourceCode: "https://github.com/your-username/portfolio" // Replace with the actual GitHub link
+            link: "https://benevolent-unicorn-8f4bb3.netlify.app/", // Replace with the actual link for the Portfolio
+            sourceCode: "https://github.com/shaseeb843/Portfolio" // Replace with the actual GitHub link
         },
     ];
 
