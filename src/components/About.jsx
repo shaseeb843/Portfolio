@@ -13,9 +13,8 @@ function About() {
         <br />
              CLASS 12TH | 2020 Govt. Boys Higher Secondary School Nigeen, Srinagar.
          <br />
-             I am currently persuing B.Tech in CSE from "Central University of Kashmir"
-          <br />
-              "Enrolled in 8th Semester"  
+             B.Tech in CSE from "Central University of Kashmir"
+        
 
         </span>
         <br />
