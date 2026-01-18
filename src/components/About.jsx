@@ -13,7 +13,7 @@ function About() {
         <br />
              CLASS 12TH | 2020 Govt. Boys Higher Secondary School Nigeen, Srinagar.
          <br />
-             B.Tech in CSE from "Central University of Kashmir"
+             B.Tech in CSE | 2025 from "Central University of Kashmir, Ganderbal"
         
 
         </span>
